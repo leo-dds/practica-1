@@ -1,5 +1,5 @@
 # practica-1
-docker pull nome_imaxen: sirvenos para descagar unha imaxen para o noso docker 
+**docker pull nome_imaxen**: sirvenos para descagar unha imaxen para o noso docker 
 
 docker images: poderemos ver todas as imaxes que temos no docker 
 
